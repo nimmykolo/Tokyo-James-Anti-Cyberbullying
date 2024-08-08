@@ -99,6 +99,23 @@ img {
    
 }
 
+@media (max-width: 480px){
+
+    .person{
+
+        display: block;
+    }
+    
+
+    img{
+
+        height: 300px;
+        margin: 0px,15px,15px,0px;
+        float: left;
+        
+    }
+}
+
 @keyframes fadeIn {
     from {
         opacity: 0;
