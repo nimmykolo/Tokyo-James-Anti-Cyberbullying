@@ -94,10 +94,16 @@ img {
     max-width: 100%;
     height: auto;
     display: block;
-    margin: 20px 0;
+   
     border-radius: 10px;
     float: left;
+  
    
+}
+
+.impacts{
+    display: flex;
+
 }
 
 @media (max-width: 480px){
@@ -125,7 +131,6 @@ img {
         opacity: 1;
     }
 }
-
 
 
 
